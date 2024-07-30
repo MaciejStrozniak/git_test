@@ -1,1 +1,1 @@
-#adding some new text here to upload it via VSCode terminal on github
+#adding some new text here to upload it via VSCode terminal to git and than github
